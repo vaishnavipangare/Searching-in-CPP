@@ -1,5 +1,5 @@
-// Aditya Bhagwan Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include <iostream>
 #include <cmath>
@@ -36,4 +36,5 @@ int main() {
 }
 
 // OUTPUT
+
 // Element found at index 4
